@@ -1,0 +1,47 @@
+{
+  "name": "trayce",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@exponent/ex-navigation": "^1.7.0",
+    "@exponent/react-native-action-sheet": "^0.2.3",
+    "@exponent/vector-icons": "1.0.4",
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "crypto-js": "^3.1.8",
+    "exponent": "^11.0.1",
+    "jest": "17.0.3",
+    "jest-react-native": "17.0.3",
+    "react": "15.3.2",
+    "react-native": "0.35.0",
+    "react-native-datepicker": "^1.4.0",
+    "react-native-drawer-layout": "^1.1.0",
+    "react-native-fetch-blob": "^0.10.0",
+    "react-native-image-crop-picker": "^0.10.5",
+    "react-native-keyboard-spacer": "^0.3.0",
+    "react-native-linear-gradient": "^1.5.15",
+    "react-native-loading-spinner-overlay": "^0.3.0",
+    "react-native-simple-modal": "^4.0.1",
+    "react-native-smart-splash-screen": "^2.1.0",
+    "react-native-textinput-effects": "0.1.3",
+    "react-native-vector-icons": "^2.1.0",
+    "react-redux": "^4.4.6",
+    "react-test-renderer": "15.3.2",
+    "redux": "^3.6.0",
+    "underscore": "1.8.3"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "17.0.3",
+    "jest-react-native": "17.0.3",
+    "react-test-renderer": "15.3.2"
+  }
+}
